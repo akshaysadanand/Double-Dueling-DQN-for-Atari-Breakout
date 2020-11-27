@@ -3,4 +3,4 @@ Double Dueling DQN architecture to solve Atari Breakout environment, achieving a
 
 Train: python main.py --train_dqn 
 
-Test python main.py --test_dqn
+Test: python main.py --test_dqn
